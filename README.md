@@ -16,3 +16,4 @@ import {encrypt, decrypt} from "crypto-zen"
 console.log(encrypt(message, key))
 console.log(decrypt(message, key))
 ```
+ 
