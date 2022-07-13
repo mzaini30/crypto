@@ -17,3 +17,5 @@ console.log(encrypt(message, key))
 console.log(decrypt(message, key))
 ```
  
+<!-- blog start -->
+<!-- blog end -->
