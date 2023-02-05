@@ -1,7 +1,6 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@types/crypto-js': ^4.1.1
   bumpp: ^7.1.1
   crypto-js: ^4.1.1
   tsup: ^6.1.2
@@ -10,7 +9,6 @@ dependencies:
   crypto-js: 4.1.1
 
 devDependencies:
-  '@types/crypto-js': 4.1.1
   bumpp: 7.1.1
   tsup: 6.1.2
 
@@ -45,10 +43,6 @@ packages:
     dependencies:
       '@nodelib/fs.scandir': 2.1.5
       fastq: 1.13.0
-    dev: true
-
-  /@types/crypto-js/4.1.1:
-    resolution: {integrity: sha512-BG7fQKZ689HIoc5h+6D2Dgq1fABRa0RbBWKBd9SP/MVRVXROflpm5fhwyATX5duFmbStzyzyycPB8qUYKDH3NA==}
     dev: true
 
   /ansi-styles/4.3.0:
